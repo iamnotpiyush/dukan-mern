@@ -1,0 +1,37 @@
+[{
+    "_id": {
+      "$oid": "65eb54d56ac6dfe940d7051d"
+    },
+    "productName": "The Art of Happiness: A Handbook for Living",
+    "price": "329",
+    "decscription": "One of the world's greatest spiritual leaders teams up with a psychiatrist to share, for the first time, how he achieved his hard-won serenity and how readers can attain the same inner peace.",
+    "author": "Howard C. Cutler, Dalai Lama XIV",
+    "genres": "selfhelp",
+    "imglink": "https://kitabay.com/cdn/shop/products/05d248cb772304a6642d9c148e8d2937.jpg?crop=center&height=475&v=1709363503&width=301",
+    "createdAt": {
+      "$date": "2024-03-08T18:11:33.529Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-08T18:11:33.529Z"
+    },
+    "__v": 0
+  },
+  {
+    "_id": {
+      "$oid": "65eb5eac6ac6dfe940d705a2"
+    },
+    "productName": "Doglapan\n",
+    "price": "426",
+    "decscription": "This is the unfettered story of Ashneer Grover-the favourite and misunderstood poster boy of Start-up India. Raw, gut-wrenching in its honesty and completely from the heart, this is stor.",
+    "author": "Ashneer Grover",
+    "genres": "selfhelp",
+    "imglink": "https://www.bookswagon.com/productimages/images200/111/9780670097111.jpg",
+    "createdAt": {
+      "$date": "2024-03-08T18:53:32.220Z"
+    },
+    "updatedAt": {
+      "$date": "2024-03-08T18:53:32.220Z"
+    },
+    "__v": 0
+  }
+ ]
